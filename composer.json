@@ -29,8 +29,8 @@
         }
     },
     "extra": {
-        "name": "Colour Swatches",
-        "handle": "colour-swatches",
+        "name": "Craft Colour Swatches",
+        "handle": "colourswatches",
         "schemaVersion": "1.0.0",
         "hasCpSettings": false,
         "hasCpSection": false,
