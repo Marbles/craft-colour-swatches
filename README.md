@@ -1,8 +1,6 @@
 ![Icon](./src/icon.svg)
 
-[![Latest Version](https://img.shields.io/github/release/marbles/craft-colour-swatches.svg?style=flat-square)](https://github.com/marbles/craft-colour-swatches/releases)
-[![Quality Score](https://img.shields.io/scrutinizer/g/marbles/craft-colour-swatches.svg?style=flat-square)](https://scrutinizer-ci.com/g/marbles/craft-colour-swatches)
-[![StyleCI](https://styleci.io/repos/117454863/shield)](https://styleci.io/repos/117454863)
+[![Latest Version](https://img.shields.io/github/release/Marbles/craft-colour-swatches.svg?style=flat-square)](https://github.com/marbles/craft-colour-swatches/releases)
 [![Total Downloads](https://img.shields.io/packagist/dt/marbles/craft-colour-swatches.svg?style=flat-square)](https://packagist.org/packages/marbles/craft-colour-swatches)
 
 # Colour Swatches plugin for Craft CMS 3.x
