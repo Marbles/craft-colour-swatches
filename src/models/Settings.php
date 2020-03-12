@@ -1,6 +1,6 @@
 <?php
 
-namespace rias\colourswatches\models;
+namespace marbles\colourswatches\models;
 
 use craft\base\Model;
 

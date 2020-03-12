@@ -4,26 +4,26 @@
  *
  * Let clients choose from a predefined set of colours.
  *
- * @link      https://rias.be
+ * @link      https://marbles.be
  *
- * @copyright Copyright (c) 2018 Rias
+ * @copyright Copyright (c) 2020 Marbles
  */
 
-namespace rias\colourswatches;
+namespace marbles\colourswatches;
 
 use craft\base\Plugin;
 use craft\events\RegisterComponentTypesEvent;
 use craft\services\Fields;
-use rias\colourswatches\fields\ColourSwatches as ColourSwatchesField;
-use rias\colourswatches\models\Settings;
+use marbles\colourswatches\fields\ColourSwatches as ColourSwatchesField;
+use marbles\colourswatches\models\Settings;
 use yii\base\Event;
 
 /**
  * Class Colorswatches.
  *
- * @author    Rias
+ * @author    Marbles
  *
- * @since     1.0.0
+ * @since     2.0.0
  */
 class ColourSwatches extends Plugin
 {

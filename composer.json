@@ -1,5 +1,5 @@
 {
-    "name": "rias/craft-colour-swatches",
+    "name": "marbles/craft-colour-swatches",
     "description": "Let clients choose from a predefined set of colours.",
     "type": "craft-plugin",
     "keywords": [
@@ -10,14 +10,14 @@
         "colour-swatches"
     ],
     "support": {
-        "docs": "https://github.com/riasvdv/craft-colour-swatches/blob/master/README.md",
-        "issues": "https://github.com/riasvdv/craft-colour-swatches/issues"
+        "docs": "https://github.com/Marbles/craft-colour-swatches/blob/master/README.md",
+        "issues": "https://github.com/Marbles/craft-colour-swatches/issues"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Rias",
-            "homepage": "https://rias.be"
+            "name": "Marbles",
+            "homepage": "https://www.marbles.be"
         }
     ],
     "require": {
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-          "rias\\colourswatches\\": "src/"
+          "marbles\\colourswatches\\": "src/"
         }
     },
     "extra": {
@@ -34,7 +34,7 @@
         "schemaVersion": "1.0.0",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/riasvdv/craft-colour-swatches/master/CHANGELOG.md",
-        "class": "rias\\colourswatches\\ColourSwatches"
+        "changelogUrl": "https://raw.githubusercontent.com/Marbles/craft-colour-swatches/master/CHANGELOG.md",
+        "class": "marbles\\colourswatches\\ColourSwatches"
     }
 }

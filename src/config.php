@@ -4,9 +4,9 @@
  *
  * Let clients choose from a predefined set of colours.
  *
- * @link      https://rias.be
+ * @link      https://marbles.be
  *
- * @copyright Copyright (c) 2018 Rias
+ * @copyright Copyright (c) 2018 Marbles
  */
 
 /**
