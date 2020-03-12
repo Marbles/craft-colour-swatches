@@ -9,11 +9,7 @@ Let clients choose from a predefined set of colours.
 
 <img src="./resources/img/screenshot.png" width="500">
 
-## Support Open Source. Buy beer.
-
-This plugin is licensed under a MIT license, which means that it's completely free open source software, and you can use it for whatever and however you wish. If you're using it and want to support the development, buy me a beer over at Beerpay!
-
-[![Beerpay](https://beerpay.io/marbles/craft-colour-swatches/badge.svg?style=beer-square)](https://beerpay.io/marbles/craft-colour-swatches)
+This package used to be rias/craft-colour-swatches, but siince he abandoned his package he asked us to take it over. Feel free to use it!
 
 ## Requirements
 
